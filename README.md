@@ -8,7 +8,7 @@ Developed in partnership with the **Delaware Tribe of Indians** and **Delaware N
 
 -----
 
-## 🎁 Cultural Co-Stewardship & Community Impact
+## Cultural Co-Stewardship & Community Impact
 
 Our goals are twofold:
 
@@ -23,7 +23,7 @@ The assets, environments, and interactive systems created for this project will 
 
 -----
 
-## ⚙️ Local Setup Guide
+## Local Setup Guide
 
 Due to the large file sizes common in Unreal Engine projects, this repository utilizes **Git Large File Storage (LFS)**. You **must** set up Git LFS before cloning the repository to successfully download all necessary game assets.
 
@@ -65,7 +65,7 @@ This project's `.gitattributes` file explicitly tracks several large file types 
 
 -----
 
-## 🚀 How to Run the Project
+## How to Run the Project
 
 1.  **Install Unreal Engine 5.6:** Ensure you have the correct version of the engine installed via the Epic Games Launcher.
 2.  **Open the Project:** Navigate to the cloned local directory and double-click the main **`.uproject`** file (`Lenapehoking.uproject`).
